@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed&display=swap');
+
+.catcafelogo {
+    background: url('cat.png');
+    width: 100%;
+	height: 800px;
+	justify-content: center;
+	align-items: center;
+	border-bottom: solid;
+}
+div.home .banner-image h1 {
+	font-size: 75px;
+	margin-bottom: 100px;
+	text-align: center;
+	color: salmon;
+	font-family: 'Courier New', Courier, monospace
+	
+}
+
+.banner-content{
+	text-align: center;
+
+}
+
+.banner-content h1{
+	line-height: 30px;
+	margin-bottom: 100px;
+	color: salmon;
+}
+
+.banner-content span{
+	color: gray;
+	font-size: 70pt;
+	text-align: justify;
+	font-family: 'Abril Fatface', cursive;
+}
+
+.banner-content p {
+	padding: 0 250px;
+	color: rgb(15, 15, 15);
+	font-family: 'Fira Sans Condensed', sans-serif;
+	text-align: justify;
+	font-size: 27pt;
+}
+
+.members{
+	background-image: url('cat.png');
+	width: 100%;
+	height: 800px;
+	justify-content: center;
+	align-items: center;
+	border-bottom: indianred;
+}
+
+.our-team {
+	font-size: 27pt;
+	text-align: center;
+	color: black;
+}
+
+.news {
+	background-image: url('cat.png');
+	width: 100%;
+	height: 800px;
+}
+
+.our-news {
+	background-image: url('cat2.jpg');
+}
